@@ -1,5 +1,8 @@
 ## Hi there 👋
+My Old Github: https://github.com/ahmadmostafa2000/Ahmedmostafa2000
 
+Working on importing my work from my old profile.
+Thanks for understanding..
 <!--
 **mlahmadmostafa/mlahmadmostafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
