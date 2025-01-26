@@ -1,7 +1,7 @@
 ## Hi there 👋
 My Old Github: https://github.com/ahmadmostafa2000/Ahmedmostafa2000
 
-Working on importing my work from my old profile.
+Working on importing my work from my old profile as well as completing my profile.
 Thanks for understanding..
 ### My Knowledege Tree
 ```mermaid
