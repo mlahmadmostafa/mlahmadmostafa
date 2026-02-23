@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi, Salam 👋, I'm Ahmad Mostafa</h1>
-<h3 align="center">A curious AI Engineer</h3>
+<h3 align="center">A curious Software Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
