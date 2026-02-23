@@ -9,13 +9,5 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlahmadmostafa&show_icons=true&locale=en&layout=compact" alt="mlahmadmostafa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mlahmadmostafa&show_icons=true&locale=en" alt="mlahmadmostafa" /></p>
-
-
-
-#### My Old Github: https://github.com/ahmadmostafa2000/  
-
 
 
