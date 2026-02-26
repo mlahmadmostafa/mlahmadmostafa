@@ -22,7 +22,7 @@ I am an **AI Engineer** specializing in **Agentic AI workflows, Machine Learning
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mlahmadmostafa&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mlahmadmostafa&theme=radical" />
 </p>
 
 ### 🚀 Quick Glance
