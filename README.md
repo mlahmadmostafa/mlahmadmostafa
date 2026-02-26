@@ -47,17 +47,17 @@ I am an **AI Engineer** specializing in **Agentic AI workflows, Machine Learning
 
 ### 🌟 Featured Projects
 
-#### [Engineering Chatbot @ ECG](https://github.com/mlahmadmostafa)
+#### [Engineering Chatbot @ ECG](https://github.com/mlahmadmostafa/Engineering-Conversational-RAG-Agent)
 **High-Concurrency Multi-Agent RAG System.** * Built a FastAPI orchestrator handling multi-agent streams using **CrewAI** and **Llama-Index**.
 * Implemented **DVC** for data lineage and **Prometheus/Grafana** for real-time observability.
 * *Key Tech: Hierarchical RAG, JSON-repair loops, Docker.*
 
-#### [Serverless AI Twin Infrastructure](https://github.com/mlahmadmostafa)
+#### [Serverless AI Twin Infrastructure](https://github.com/mlahmadmostafa/My-AI-Twin)
 **Production-ready IaC AI Deployment.**
 * Architected a serverless stack using **Terraform**, **AWS Lambda**, and **API Gateway**.
 * Integrated **Amazon Bedrock** for model inference and S3 for stateful chat memory.
 
-#### [BIM-to-BOQ AI Engine](https://github.com/mlahmadmostafa)
+#### [BIM-to-BOQ AI Engine](https://github.com/mlahmadmostafa/AI-Assisted-Billing-of-Quantities-Enrichment-and-Export-Workflow)
 **Industry-specific GenAI Pipeline.**
 * Developed a high-throughput extraction system for BIM piping data.
 * Combined **GraphRAG** (relational data) and **PageIndex** (hierarchical docs) for 99% retrieval precision.
