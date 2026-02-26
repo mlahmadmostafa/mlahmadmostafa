@@ -1,10 +1,18 @@
 # Hi there, I'm Ahmad Mostafa 👋 
+<p align="right">
+  <a href="https://linkedin.com/in/mlahmadmostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mlahmadmostafa" height="30" width="40" /></a>
+</p>
+
 
 ### AI Engineer | Agentic AI & ML System Architect 🤖
 
 I am an **AI Engineer** specializing in **Agentic AI workflows, Machine Learning architectures, and MLOps**. I bridge the gap between cutting-edge research and scalable production systems, with a focus on system design that serves real-world business needs.
 
 ---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mlahmadmostafa&theme=monokai" />
+</p>
 
 ### 🚀 Quick Glance
 - 🧠 **Currently:** R&D AI Engineer at **ECG** (Engineering Consultants Group).
@@ -46,9 +54,9 @@ I am an **AI Engineer** specializing in **Agentic AI workflows, Machine Learning
 ---
 
 ### 📊 GitHub Stats
-![Ahmad's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=mlahmadmostafa&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mlahmadmostafa&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mlahmadmostafa&show_icons=true&theme=radical" width="50%" />
+</p>
 
 ---
 
@@ -60,10 +68,7 @@ I am an **AI Engineer** specializing in **Agentic AI workflows, Machine Learning
 
 ---
 *"Building the future, one agent at a time."* ✨
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mlahmadmostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mlahmadmostafa" height="30" width="40" /></a>
-</p>
+
 
 
 
