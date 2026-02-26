@@ -1,6 +1,17 @@
 # Hi there, I'm Ahmad Mostafa 👋 
 <p align="right">
-  <a href="https://linkedin.com/in/mlahmadmostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mlahmadmostafa" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mlahmadmostafa" target="blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" />
+  </a>
+  <a href="https://wa.me/201091296604" target="blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="35" />
+  </a>
+  <a href="mailto:ml.ahmadmostafa@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35" />
+  </a>
+  <a href="tel:+201091296604" target="blank">
+    <img src="https://img.shields.io/badge/Phone-34A853?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Phone" height="35" />
+  </a>
 </p>
 
 
